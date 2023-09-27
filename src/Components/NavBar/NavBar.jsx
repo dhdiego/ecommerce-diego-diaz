@@ -11,6 +11,7 @@ const NavBar = () => {
         <li><a href="#">Vinilos</a></li>
         <li><a href="#">Cds</a></li>
         <li><a href="#">Cassettes</a></li>
+        <li><a href="#">Contacto</a></li>
         
        
       </ul>
